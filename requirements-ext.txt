@@ -1,0 +1,5 @@
+--no-build-isolation
+./submodules/diff-gaussian-rasterization
+./submodules/diff
+./submodules/var_diff
+./submodules/simple-knn

@@ -1,0 +1,19 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch==2.4.0
+torchvision==0.19.0
+torchaudio==2.4.0
+setuptools
+wheel
+packaging
+ninja
+einops
+Pillow
+pymeshlab
+scipy
+wandb
+plyfile
+pybullet
+taichi
+trimesh
+--find-links https://nvidia-kaolin.s3.us-east-2.amazonaws.com/torch-2.4.0_cu124.html
+kaolin==0.18.0
