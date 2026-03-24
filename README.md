@@ -1,8 +1,8 @@
 # FluidGaussian: Propagating Simulation-Based Uncertainty Toward Functionally-Intelligent 3D Reconstruction
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b)]()
-[![Paper PDF](https://img.shields.io/badge/Paper-PDF-blue)](https://openreview.net/forum?id=YLtJkM7gxT)
-<!-- [![Project Page](https://img.shields.io/badge/Project-Page-green)]() -->
+[![arXiv](https://img.shields.io/badge/arXiv-2603.21356-b31b1b)](https://arxiv.org/abs/2603.21356)
+[![Paper PDF](https://img.shields.io/badge/Paper-PDF-blue)](https://arxiv.org/pdf/2603.21356)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://autumnyq.github.io/FluidGaussian/)
 
 [**Yuqiu Liu**](https://autumnyq.github.io/)<sup>1\*</sup>, [**Jialin Song**](https://scholar.google.com/citations?user=-zPtvfsAAAAJ&hl=en)<sup>1\*</sup>, [**Marissa Ramirez de Chanlatte**](https://scholar.google.com/citations?user=ByxEbZEAAAAJ&hl=en)<sup>2</sup>, [**Rochishnu Chowdhury**](https://scholar.google.com/citations?user=DVQjbr4AAAAJ&hl=en)<sup>2</sup>, [**Rushil Paresh Desai**]()<sup>3</sup>, [**Wuyang Chen**](https://www.sfu.ca/fas/computing/people/faculty/faculty-members/wuyang-chen.html)<sup>1</sup>, [**Daniel Martin**](https://scholar.google.com/citations?user=oXfed6oAAAAJ&hl=en)<sup>2</sup>, [**Michael Mahoney**](https://www.stat.berkeley.edu/~mmahoney/)<sup>2,3,4</sup>
 
